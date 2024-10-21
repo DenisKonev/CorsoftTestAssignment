@@ -1,3 +1,12 @@
+# Тестовое задание для Корсофт
+[Java-бэкэнд разработчик](https://hh.ru/vacancy/108438531)  
+[Требования](https://docs.google.com/document/d/15phWRzZN4yx0eu3c5yno0W6R7r1SHQ4y/edit)
+
+# Описание решения
+Решение состоит из двух микросервисов [UserManagementAPI](https://github.com/DenisKonev/UserManagementAPI) и [RoleManagementAPI
+](https://github.com/DenisKonev/RoleManagementAPI)  
+Для того чтобы протестировать его нужно запустить их оба. Как это сделать описано в ридми каждого из сервисов.
+
 # High-Level Design (HLD)
 
 ## Общий обзор
@@ -230,3 +239,4 @@
 
 - **Мониторинг и трассировка:**
     - Внедрение инструментов для мониторинга производительности и логирования запросов между сервисами (в рамках будущих улучшений).
+
